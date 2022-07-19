@@ -1,4 +1,4 @@
-#Deploy-Static-Website-on-AWS
+# Deploy Static Website on AWS
 The whole project has two major Objectives: 
 * Hosting a static website on AWS S3 
 * Accelerated access to the static Website content using CloudFront propretory content delivery network for AWS. CloudFronts helps to bring the content closer to the user via edge location caching and this helps  in reducing latency and thus increasing transfer speed 
